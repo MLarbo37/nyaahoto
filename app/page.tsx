@@ -29,7 +29,7 @@ export default function Home() {
       </section>
 
       <Image
-        src="/assests/images/onboarding-img.png"
+        src="/assets/images/onboarding-img.png"
         width={1000}
         height={1000}
         alt="patient"
