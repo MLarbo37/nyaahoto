@@ -19,7 +19,7 @@ export default function Home() {
 
           <div className="text-14-regular mt-20 flex justify-between">
             <p className="justify-items-end text-dark-600 xl:text-left">
-              2025 Nya Ahoto
+              &copy; 2025 Nya Ahoto
             </p>
             <Link href="/?admin=true" className="text-green-500">
               Admin
